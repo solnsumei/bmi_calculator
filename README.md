@@ -6,7 +6,7 @@ Body Mass Index calculator app build with flutter
 - Dart
 - Flutter
 
-## Depedencies
+## Dependencies
 - font_awesome_flutter
 
 ## With guidance from
